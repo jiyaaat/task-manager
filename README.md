@@ -1,4 +1,4 @@
-# Flutter-Task-Manager
+# Task-Manager
 
 This is a daily task manager application project created in flutter. 
     
